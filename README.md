@@ -6,5 +6,5 @@ First, We can see that this task will give our some skills:
     - service enumeration
     - Linux Enumeration
 
-![alt text](http://github.com/[Queure]/[tryhackme]/blob/[main]/image1.png?raw=true)
+![BasicPentesting/img/image1.png](BasicPentesting/img/image1.png)
 
