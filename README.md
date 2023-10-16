@@ -1,4 +1,4 @@
 # tryhackme
 
-Credit by Shuume
+Cre by Shuume
 
