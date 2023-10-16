@@ -1,4 +1,4 @@
 # tryhackme
 
-Cre by Shuume
+Creda by Shuume
 
