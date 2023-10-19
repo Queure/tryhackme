@@ -3,7 +3,7 @@
 ## Deploy the machine
 > No answer needed
 
-========================================================================================================
+===============================================================================================
 
 Những câu ở task 2 thì chỉ cần **nmap** phát là nó ra hết à...
 
@@ -86,7 +86,7 @@ Có vẻ như chúng ta cần chèn 1 cái reverse shell vào trang web này đ�
 
 Sau đó tìm kiếm 1 cái reverse shell php trên github rồi tải về https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php
 
-Thử upload nó lên nhưng tác giả đã chặn không cho upload file php, tuy nhiên với file php, đuôi php không phải là đuôi file duy nhất:)) , thử đổi tên file reverse shell thành đuôi .php3, sau đó thử upload lên và kết quả là đã thành công.
+Thử upload nó lên nhưng tác giả đã chặn không cho upload file php, tuy nhiên với file php, đuôi php không phải là đuôi file duy nhất:)) , thử đổi tên file reverse shell thành đuôi .phtml, sau đó thử upload lên và kết quả là đã thành công.
 
 Sau đó mở file này ở bên **/uploads** đồng thời ở terminal cũng dùng:
 ```c
