@@ -3,7 +3,7 @@
 ## Deploy the machine
 > No answer needed
 
-============================================================================
+========================================================================================================
 
 Những câu ở task 2 thì chỉ cần **nmap** phát là nó ra hết à...
 
@@ -43,7 +43,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 ## What is the hidden directory?
  Với file ẩn thì dùng GoBuster để tìm
 
-    gobuster dir -w /usr/share/wordlists/dirb/common.txt
+    gobuster dir -w /usr/share/wordlists/dirb/common.txt 10.10.185.22
 
  Và đây là kết quả:
  ```c
