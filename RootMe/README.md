@@ -117,13 +117,6 @@ THM{y0u_g0t_a_sh3ll}
 Hể ưe go đây là flag đầu tiên!
 
 ## Privilege Escalation
-### Answer the questions below
-
-Find a form to escalate your privileges.
-> No answer needed
-
-root.txt
-> No answer needed
 
 Welp đề bài có nói về quyền SUID, quyền này đơn giản thì file nào có quyền này sẽ được chạy với quyền ROOT, nên có thể khai thác được, để kiểm tra quyền SUID:
 ```c
@@ -131,6 +124,7 @@ Welp đề bài có nói về quyền SUID, quyền này đơn giản thì file 
 ```
 
 Sau khi search, có một thứ khá là lạ có quyền SUID
+
 ![img/image2.png](img/image2.png)
 
 ### Search for files with SUID permission, which file is weird?
